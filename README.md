@@ -20,7 +20,9 @@ gem install rails -v 3.2.13
 
 #setup pjm 
 sudo apt-get install libmagickwand-dev
+#yum install ImageMagick-devel
 sudo apt-get install libmysql-ruby libmysqlclient-dev
+# yum install mysql-devel
 
 
 mysql> CREATE DATABASE redmine CHARACTER SET utf8;
